@@ -1,9 +1,9 @@
+---
 layout: post
 comments: true
 title:  "Journal Day #1"
 date : 2024-02-10
-
-## Project-X Journal Day #1
+---
 
 ### Tasks Checklist
 
