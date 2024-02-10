@@ -5,14 +5,17 @@ title:  "Journal Day #1"
 date : 2024-02-10
 ---
 
-### Tasks Checklist
 
-[X] GitHub Pages setup
+<h3 style = "text-decoration : underline;"> TASKS CHECKLIST </h3>
+
+* [X] GitHub Pages setup
 
 
 
-* [ ] **Technical Study: Web APIs with FastAPI**   
-  **|Some topics covered**
+* [ ] <span style="color: red;">**Technical Study: Web APIs with FastAPI**</span>
+
+   <span style = "text-decoration: underline;">**Some topics covered**</span>
+
   - FastApi Routing
   - request body validation via pydantic models :
     - Serialization/Deserialization, data conversion, 
@@ -28,7 +31,7 @@ date : 2024-02-10
 
 
 
-* [ ] **TrackerService-4 Architecture + Start**
+* [ ] <span style = "color: red;">**TrackerService-4 Architecture + Start**</span>
 
   - detail-1
   - detail-2
@@ -36,7 +39,7 @@ date : 2024-02-10
 
 
 
-* [ ] **DetectorService-2 Improvements / Bug Fixes**
+* [ ] <span style = "color: red;">**DetectorService-2 Improvements / Bug Fixes**</span>
 
   - detail-1
   - detail-2
@@ -44,7 +47,7 @@ date : 2024-02-10
 
 
 
-* [ ] **Technical Study: Engineering MLOps**: 
+* [ ] <span style = "color: red;">**Technical Study: Engineering MLOps**</span>
 
   - detail-1
   - detail-2
