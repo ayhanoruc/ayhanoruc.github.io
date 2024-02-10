@@ -6,3 +6,5 @@ baseurl: ""
 url: "https://ayhanoruc.github.io/"
 
 theme: minima
+minima:
+  skin: dark
