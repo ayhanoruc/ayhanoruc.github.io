@@ -6,7 +6,7 @@ date : 2024-02-10
 ---
 
 
-<h3 style = "text-decoration : underline;"> TODAY'S TOPICS </h3>
+<h3 style = "text-decoration : underline;"> TODAY'S KEYWORDS </h3>
 
 * [X] <span style="color: red;">**Github Pages Setup**</span>
 
@@ -64,7 +64,7 @@ date : 2024-02-10
   - Drivers: Data, code, artifacts, middleware, and infrastructure 
   - ML-solution development proces, types of ML models
   
-    <img src="image.png" alt="alt text" width="300" height="300">
+    ![type of ml models](/ayhanoruc.github.io/docs/assets/images/type_of_ml_models.png)
 
 
   - solving real-world mlops problem: ML-driven solution to  
