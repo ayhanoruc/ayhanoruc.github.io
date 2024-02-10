@@ -64,7 +64,7 @@ date : 2024-02-10
   - Drivers: Data, code, artifacts, middleware, and infrastructure 
   - ML-solution development proces, types of ML models
   
-    ![type of ml models](/ayhanoruc.github.io/assets/type_of_ml_models.png)
+    ![type of ml models](https://github.com/ayhanoruc/ayhanoruc.github.io/blob/main/assets/type_of_ml_models.png)
 
 
   - solving real-world mlops problem: ML-driven solution to  
