@@ -62,7 +62,15 @@ date : 2024-02-10
   - Design Science Applied to (DataEng + ML + Devops) -> MLOps Worfklow as artifact
   - MLOps pipeline (build, deploy, and monitor) 
   - Drivers: Data, code, artifacts, middleware, and infrastructure 
-  - <span style="color: orange;">**Hours:** 1</span> 
+  - ML-solution development proces, types of ML models
+  
+    <img src="image.png" alt="alt text" width="300" height="300">
+
+
+  - solving real-world mlops problem: ML-driven solution to  
+    forecast weather conditions 4 hours in advance at the port of Turku in Finland.
+    for supply-chain optimization
+  - <span style="color: orange;">**Hours:** 3</span> 
 
 
 
