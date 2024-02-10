@@ -43,6 +43,8 @@ date : 2024-02-10
 
 
 
+* [ ] <span style = "color: red;">**MM-LLMs: Recent Advances in MultiModal Large Language Models paper**</span>
+
 
 
 * [ ] <span style = "color: red;">**DetectorService-2 Improvements / Bug Fixes**</span>
@@ -70,6 +72,8 @@ date : 2024-02-10
   - solving real-world mlops problem: ML-driven solution to  
     forecast weather conditions 4 hours in advance at the port of Turku in Finland.
     for supply-chain optimization
+
+  
   - <span style="color: orange;">**Hours:** 3</span> 
 
 
