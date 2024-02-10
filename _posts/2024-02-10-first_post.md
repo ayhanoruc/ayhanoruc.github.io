@@ -1,6 +1,10 @@
+layout: post
+comments: true
+title:  "Say hi to Github Pages"
+
 ### today is a new day
 
-- helo
+- hello
 
 
 
