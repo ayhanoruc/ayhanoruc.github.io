@@ -8,7 +8,7 @@ date : 2024-02-10
 
 <h3 style = "text-decoration : underline;"> TASKS CHECKLIST </h3>
 
-* [X] GitHub Pages setup
+* [X] <span style="color: red;">**Github Pages Setup**</span>
 
 
 
@@ -26,6 +26,7 @@ date : 2024-02-10
   - Response Models and Error Handling
     - generic status codes
     - error handling with HTTPException Class
+  - generic_template_for_structuring_api_projects
 
   - <span style="color: orange;">**Hours:** 3</span> 
 
@@ -49,9 +50,10 @@ date : 2024-02-10
 
 * [ ] <span style = "color: red;">**Technical Study: Engineering MLOps**</span>
 
-  - detail-1
-  - detail-2
-  - <span style="color: orange;">**Hours:** 3</span> 
+  - Design Science Applied to (DataEng + ML + Devops) -> MLOps Worfklow as artifact
+  - MLOps pipeline (build, deploy, and monitor) 
+  - Drivers: Data, code, artifacts, middleware, and infrastructure 
+  - <span style="color: orange;">**Hours:** 1</span> 
 
 
 
