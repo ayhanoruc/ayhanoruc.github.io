@@ -6,13 +6,13 @@ date : 2024-02-10
 ---
 
 
-<h3 style = "text-decoration : underline;"> TASKS CHECKLIST </h3>
+<h3 style = "text-decoration : underline;"> TODAY'S TOPICS </h3>
 
 * [X] <span style="color: red;">**Github Pages Setup**</span>
 
 
 
-* [ ] <span style="color: red;">**Technical Study: Web APIs with FastAPI**</span>
+* [X] <span style="color: red;">**Technical Study: Web APIs with FastAPI**</span>
 
    <span style = "text-decoration: underline;">**Some topics covered**</span>
 
@@ -32,11 +32,16 @@ date : 2024-02-10
 
 
 
+
+
 * [ ] <span style = "color: red;">**TrackerService-4 Architecture + Start**</span>
 
   - detail-1
   - detail-2
   - <span style="color: orange;">**Hours:** 3</span> 
+
+
+
 
 
 
@@ -48,7 +53,11 @@ date : 2024-02-10
 
 
 
-* [ ] <span style = "color: red;">**Technical Study: Engineering MLOps**</span>
+
+
+
+
+* [X] <span style = "color: red;">**Technical Study: Engineering MLOps**</span>
 
   - Design Science Applied to (DataEng + ML + Devops) -> MLOps Worfklow as artifact
   - MLOps pipeline (build, deploy, and monitor) 
