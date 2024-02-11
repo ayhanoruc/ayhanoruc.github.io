@@ -22,6 +22,12 @@ date : 2024-02-11
 
 
 
+* [X] <span style = "color: red;">**Some functional programming, to apply to my project**</span>
+    - assessing feasbility of immutable data structures like tuple of namedtuples to store a feature of my project's historical records
+    - some handy operations like filter, map, reduce etc for data pipelines, especially for backtesting & evaluation features
+    
+    - <span style="color: orange;">**Hours:** 2</span> 
+
 
 * [X] <span style = "color: red;">**Solving a real-worlf MLOps problem- continued**</span>
 
