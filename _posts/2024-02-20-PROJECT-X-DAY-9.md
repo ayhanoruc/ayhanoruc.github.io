@@ -17,6 +17,8 @@ date : 2024-02-20
   - <span style="color: orange;">**Hours:** 1</span>
 
 
+* [X] <span style="color: red;">**New Book: Architects of intelligence the truth about AI from the people building it**</span>
 
+  - <span style="color: orange;">**Hours:** 2</span>
 
 
