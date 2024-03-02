@@ -16,7 +16,7 @@ date : 2024-03-03
 * [X] <span style="color: red;">**Reading AAAMPL**</span>
   - 5 cross validation methods, key points and implementations 
   - key insigts on eval metrics: threshold & roc-auc relations
-  - <span style="color: orange;">**Hours:** 1.5</span>
+  - <span style="color: orange;">**Hours:** 1.5</span> 
 
 
 
