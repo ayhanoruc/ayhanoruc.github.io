@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Journal Day #12"
-date : 2024-03-03
+date : 2024-03-02
 ---
 
 
